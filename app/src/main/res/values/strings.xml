@@ -1,0 +1,280 @@
+<resources>
+<string name="app_name">RecyclerviewJF</string>
+
+<string-array name="sub_name">
+    <item>C</item>
+    <item>C++</item>
+    <item>Java</item>
+    <item>Java Script</item>
+    <item>PHP</item>
+    <item>DataBase</item>
+<!--    <item>System Analysis  &amp; & &amp; Design-->
+<!--</item>-->
+    <item>Android</item>
+    <item>C</item>
+    <item>PHP</item>
+</string-array>
+
+<string name="c_programming">
+        Q1.  C99 standard guarantees uniqueness of __________ characters for internal names.\n\n
+        Answer :  63\n\n
+
+        Q2.C99 standard guarantees uniqueness of ___________ characters for external names. \n\n
+        Answer : 31 \n\n
+
+        Q3.Which of the following is not a valid variable name declaration? \n\n
+        Answer : None of the mentioned \n\n
+
+        Q4. Which of the following is not a valid variable name declaration? \n\n
+        Answer :  int 3_a; \n\n
+
+        Q5. Why do variable names beginning with the underscore is not encouraged? \n\n
+        Answer : To avoid conflicts since library routines use such names \n\n
+
+        Q6. All keywords in C are in ____________\n\n
+
+    Answer : LowerCase letters \n\n
+
+        Q7. Variable name resolution (number of significant characters for the uniqueness of variable) depends on ___________\n\n
+        Answer : a) Compiler and linker implementations\n\n
+
+        Q8. Which of the following is not a valid C variable name?\n\n
+        Answer :  int $main; \n\n
+
+        Q9. Which of the following is true for variable names in C?\n\n
+        Answer : Variable names cannot start with a digit \n\n
+
+
+    </string>
+
+
+<string name="cpp_Q">
+    Q1 . Which of the following is not used to seek a file pointer? \n\n
+        Answer : ios::set \n\n
+
+        Q2 . During dynamic memory allocation in CPP, new operator returns _________ value if memory allocation is unsuccessful. \n\n
+        Answer : NULL \n\n
+
+        Q3 . We can create objects of the abstract class. \n\n
+        Answer : False \n\n
+
+        Q4 .  Which of the followings is/are pointer-to-member declarator? \n\n
+        Answer : ::* \n\n
+
+        Q5 .  Default value of static variable is_____ . \n\n
+        Answer : 0 \n\n
+
+        Q6 .  ________ are used to format the data display in CPP. \n\n
+        Answer : Manipulators \n\n
+        Q7 .  Reusability of the code can be achieved in CPP through ______ .\n\n
+        Answer :  Inheritance \n\n
+
+        Q8 . By default, members of the class are ____________ in nature. \n\n
+        Answer : private \n\n
+
+        Q9 .  Which of the following is CPP style type-casting? \n\n
+        Answer : per = total/float(m) \n\n
+
+        Q10 .  If a program uses Inline Function, then the function is expanded inline at ___________. \n\n
+
+            Answer : Run time \n\n
+        Q11 . In CPP, the size of the character array should be one larger than the number of characters in the string.\n\n
+
+        Answer : True \n\n
+
+        Q12 .  Which of the following is/are valid ways to allocate memory for an integer by dynamic memory allocation in CPP?\n\n
+
+        Answer : All of these \n\n
+
+
+        Q13 .  Which of the following is the perfect set of operators that can’t be overloaded in CPP ? \n\n
+
+        Answer :  :: , . , .* , ?: \n\n
+
+        Q14 . Static variable in a class is initialized when _____ .\n \n
+        Answer :  first object of the class is created.\n\n
+
+        Q15 .  To perform File I/O operations, we must use _____________ header file. \n\n
+
+        Answer :  &lt; fstream &gt; \n\n
+
+        Q16 . An exception is thrown using _____________ keyword in CPP. \n\n
+
+        Answer :  throw \n\n
+
+        Q17 . If default constructor is not defined, then how the objects of the class will be created? \n\n
+        Answer : Compiler provides its default constructor to build the object. \n\n
+
+        Q18 .  Is it mandatory to invoke/call a constructor for creating an object? \n\n
+        Answer : Yes \n\n
+
+        Q19 . Members of the class can be declared with auto, extern or register storage classes. \n\n
+
+        Answer : False \n\n
+
+        Q20 . C structure differs from CPP class in regards that by default all the members of the structure are __________ in nature. \n\n
+
+        Answer : public\n\n
+
+</string>
+
+<string name="java_Q">
+        Q1 . JDBC is a Java API that is used to connect and execute query to the database \n\n
+
+        Answer : True \n\n
+
+        Q2 . Which result set generally does not show changes to the underlying database that are made while it is open. The membership, order, and column values of rows are typically fixed when the result set is created? \n\
+
+        Answer : TYPE_SCROLL_INSENSITIVE \n\n
+
+        Q3 . Servlet technology is used to create web application \n\n
+
+        Answer : True \n\n
+        Q4 .  How many layers are available in Hibernate architecture? \n\n
+        Answer : 3 \n\n
+
+        Q5 . In which technology Struts 2 provides various types of tags such as UI tags, Data tags, control tags etc. to ease the development of struts 2 application?
+\n\n
+        Answer : Various Tag support \n\n
+
+
+        Q6 .  EJB technology is built on the top of Socket Programming
+\n\n
+        Answer : False \n\n
+
+        Q7 .  EJB technology is built on the top of Socket Programming
+\n\n
+        Answer : True \n\n
+
+
+Q8 .  JSP’s provide better facilities for separation of page code and template data by mean of Java beans, EJBs and custom tag libraries\n\n
+
+Answer : True \n\n
+
+Q9 .  Which is a perfect example of
+ runtime polymorphism?
+ \n\n
+
+        Answer :  Method overriding \n\n
+
+        Q10 .  Which specification that provides runtime environment in which java byte code can be executed?\n\n
+
+        Answer : JVM \n\n
+
+        Q11 . Which is commonly used method of ByteArrayOutputStream class? \n\n
+
+        Answer : public synchronized void writeTo(OutputStream out) throws IOException \n\
+
+        Q12 . Thread class constructor allocates a new thread object \n\n
+
+        Answer : True \n\n
+
+        Q13 .  Which of the package is used to enable interaction with garbage collector? \n\n
+
+        Answer :  java.lang.ref \n\n
+
+        Q14 .  The clone() method is defined in? \n\n
+
+        Answer : Object Class \n\n
+
+        Q15 .  Where are these five keywords try, catch, finally, throw, and throws used in? \n\n
+
+        Answer : Exception Handling \n\n
+
+        Q16. The life cycle of the thread is controlled by ? \n\n
+
+        Answer : JVM \n\n
+
+        Q17 . In which the access modifier means that the field can be accessed by all classes in your application? \n\n
+
+        Answer : Public \n\n
+
+        Q18 .   java.applet defines how many interfaces? \n\n
+
+        Answer : 3 \n\n
+
+        Q19 . The ActionListener interface is not used for handling action events \n\n
+        Answer : False \n\n
+
+        Q20 .  The wrapper classes are part of the which package, that is imported by default into all Java programs? \n\n
+
+        Answer : java.lang \n\n
+
+    </string>
+
+
+<!--    <string name="javascript_q">-->
+
+<!--        Q1 . Why so JavaScript and Java have similar name? \n\n-->
+
+<!--&lt;!&ndash;        Answer : JavaScript ‘s syntax is loosely based on java ‘s \n\n&ndash;&gt;-->
+
+<!--        Q2 .  When a user views a page containing a JavaScript program, which machine actually executes the script? \n\n-->
+
+<!--&lt;!&ndash;        Answer :  The User's machine running a Web browser \n\n&ndash;&gt;-->
+
+<!--Q3 .  ______ JavaScript is also called client-side JavaScript. \n\n-->
+
+<!--Answer : Navigator \n \n-->
+<!--        Q4 . __________ JavaScript is also called server-side JavaScript.\n\n-->
+<!--Answer : LiveWire\n\n-->
+
+<!--        Q5 . What are variables used for in JavaScript Programs? \n\n-->
+<!-- Answer : Storing numbers, dates, or other values   \n\n-->
+<!-- Q6 .  _____ JavaScript statements embedded in an HTML page can respond to user events such as mouse-clicks, form input, and page navigation.\n\n-->
+<!--        Answer : Client-side \n\n-->
+<!--Q7 .  Which of the following can't be done with client-side JavaScript? \n\n-->
+
+<!--Answer :  Storing the form's contents to a database file on the server \n\n-->
+
+<!--        Q8 .   Which of the following are capabilities of functions in JavaScript?-->
+<!--\n\n-->
+<!--        Answer : Accept parameters \n\n-->
+<!--        Q9 . Which of the following attribute can hold the JavaScript version? \n\n-->
+<!--        Answer :  LANGUAGE-->
+<!--\n\n-->
+
+
+<!--Q10.  Which of the following is not a valid JavaScript variable name?-->
+<!--\n\n-->
+<!--        Answer :   2names \n\n-->
+
+
+
+<!--    </string>-->
+
+<string name="php_Q">
+
+        Q1. PHP Stands for? \n\n
+        Answer : PHP Hypertext Preprocessor \n\n
+
+        Q2. PHP is an example of ___________ scripting language. \n\n
+        Answer : Server-side \n\n
+
+        Q3. Who is known as the father of PHP? \n\n
+        Answer : Rasmus Lerdorf \n\n
+        Q4 . Which of the following is not true? \n\n
+        Answer :  PHP can not be embedded into html. \n\n
+        Q5 . PHP scripts are enclosed within _______ \n\n
+        Answer : <?php . . . ?> \n\n
+
+        Q6 .Which of the following variables is not a predefined variable? \n\n
+        Answer : $ask \n\n
+        Q7 . When you need to obtain the ASCII value of a character which of the following function you apply in PHP? \n\n
+        Answer :  ord( ); \n\n
+        Q8 . Which of the following method sends input to a script via a URL? \n\n
+        Answer : Get \n\n
+        Q9 . Which of the following function returns a text in title case from a variable? \n\n
+        Answer :ucwords($var) \n\n
+        Q10 .
+        Which of the following function returns the number of characters in a string variable? \n\n
+        Answer : strlen($variable) \n\n
+
+
+
+
+    </string>
+
+
+
+</resources>
